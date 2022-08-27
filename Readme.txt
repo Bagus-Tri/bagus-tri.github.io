@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Yummy
-Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Muhammad Bagus Triwahyudiono  - J0303201156
+Ainun Nafiah                  - J0303201069
+Utsman Abdurrahman            - J0303201002
